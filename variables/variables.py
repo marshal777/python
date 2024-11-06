@@ -3,7 +3,7 @@ john = 25  # john's age is 25 years old
 
 # A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
 a = 5
-carname = "pourchasr"
+carname = "pourchas"
 
 # A variable name must start with a letter or the underscore character.
 # A variable name cannot start with a number
